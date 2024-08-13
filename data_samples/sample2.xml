@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<category>
+		site
+	</category>
+	<filename>
+		site_sample2
+	</filename>
+	<size>
+		<width>
+			1052
+		</width>
+		<height>
+			732
+		</height>
+	</size>
+	<layout>
+		<element label="F10" polygon_x="142 169 169 142 142" polygon_y="725 725 731 731 725" global_idx="0" />
+		<element label="F1" polygon_x="136 544 544 136 136" polygon_y="425 425 641 641 425" global_idx="1" />
+		<element label="F1" polygon_x="575 817 817 575 575" polygon_y="149 149 452 452 149" global_idx="2" />
+		<element label="F2" polygon_x="341 400 400 341 341" polygon_y="343 343 389 389 343" global_idx="3" />
+		<element label="F2" polygon_x="740 797 797 740 740" polygon_y="510 510 562 562 510" global_idx="4" />
+		<element label="F8" polygon_x="277 476 476 277 277" polygon_y="225 225 326 326 225" global_idx="5" />
+		<element label="F8" polygon_x="611 711 711 611 611" polygon_y="520 520 673 673 520" global_idx="6" />
+		<element label="F2" polygon_x="893 945 945 893 893" polygon_y="133 133 187 187 133" global_idx="7" />
+		<element label="F8" polygon_x="913 1009 1009 913 913" polygon_y="205 205 355 355 205" global_idx="8" />
+		<element label="F12" polygon_x="5 88 88 5 5" polygon_y="528 528 644 644 528" global_idx="9" />
+		<element label="F13" polygon_x="2 111 111 2 2" polygon_y="76 76 469 469 76" global_idx="10" />
+		<element label="F11" polygon_x="220 285 285 220 220" polygon_y="7 7 49 49 7" global_idx="11" />
+		<element label="F7" polygon_x="842 971 971 842 842" polygon_y="653 653 721 721 653" global_idx="12" />
+		<element label="F9" polygon_x="133 280 280 133 133" polygon_y="93 93 166 166 93" global_idx="13" />
+		<element label="F6" polygon_x="330 478 478 330 330" polygon_y="94 94 171 171 94" global_idx="14" />
+		<element label="F3" polygon_x="219 329 329 219 219" polygon_y="657 657 705 705 657" global_idx="15" />
+		<element label="F4" polygon_x="539 801 801 539 539" polygon_y="10 10 66 66 10" global_idx="16" />
+		<element label="F5" polygon_x="919 1016 1016 919 919" polygon_y="384 384 541 541 384" global_idx="17" />
+	</layout>
+	<text>
+		<resolution>5</resolution>
+		<category>cost</category>
+	</text>
+</annotation>
