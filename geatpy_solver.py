@@ -8,15 +8,12 @@ import xml.etree.ElementTree as ET
 import random
 from tqdm import tqdm
 import sys
-# sys.stdout = None
-sys.path.append("..")
 from parse_label_json import  split_center_xy
 from itertools import combinations
 
 
 class DataLoader():
     def __init__(self, inputjson, idx_list) -> None:
-        #以1开始
         self.safety_coff = [
             [0,0,0,0,0,0,0,0,0,0,0,0,0,0],
             [0,0,243,27,81,81,81,27,81,27,3,27,9,3],
